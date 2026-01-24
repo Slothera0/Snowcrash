@@ -18,5 +18,5 @@ Utilisation de John the Ripper, un logiciel de craquage de mot de passe avec:
 hash.txt contient le hash decouvert ci-dessus
 
 Résultat:
-``àbcdefg```
+```abcdefg```
 
